@@ -1,5 +1,5 @@
 import time
-while(True)
+while(True):
 print("How many numbers do you want until the machine stops?")
 a = input("")
 print("How many times do people need to wait to the script to occur again?")
