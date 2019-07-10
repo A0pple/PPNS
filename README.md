@@ -1,2 +1,2 @@
 # PPNS
-Python Prime Number Status, a software i built half year ago.
+Python Prime Number Status
